@@ -1,0 +1,9 @@
+﻿:root { font-family: 'Segoe UI', Arial, sans-serif; color: #243c32; background: #f8f7f3; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; line-height: 1.5; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 360px; }
+button, input, select, textarea { font: inherit; }
+button, a, input, select, textarea { -webkit-tap-highlight-color: transparent; }
+button { cursor: pointer; }
+a { color: inherit; }
+button:disabled { cursor: default; }
+:focus-visible { outline: 3px solid #b35b35; outline-offset: 4px; }
